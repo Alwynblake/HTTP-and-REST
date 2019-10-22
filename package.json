@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node list/index.js",
+    "start": "node server.js",
     "lint": "eslint '**/*.js'",
     "test": "node_modules/.bin/jest --coverage --verbose",
     "test-watch": "node_modules/.bin/jest --watchAll --verbose --coverage",

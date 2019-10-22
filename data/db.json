@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "id": "246810",
+      "name": "steph curry",
+      "display_name": "what what what",
+      "description": "Describe a categories"
+    }
+  ],
+  "products": [
+    {
+      "id": "123456789",
+      "category": "whats in a name",
+      "name": "sounders",
+      "display_name": "what what what",
+      "description": "Describe a product"
+    },
+    {
+      "id": "12345",
+      "category": "whats in a name",
+      "name": "sounders",
+      "display_name": "sounders",
+      "description": "Describe a product"
+    }
+  ]
+}
